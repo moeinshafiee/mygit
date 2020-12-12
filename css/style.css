@@ -1,8 +1,6 @@
 #box{
-	height: 200px;
-	width: 200px;
-	/*background-color: pink;*/
+	height: 250px;
+	width: 250px;
 	background: url("../pic/1.jpg") no-repeat 50% 50%;
 	background-size: auto;
-	/*background: no-repeat 50% 50%;*/
 }
